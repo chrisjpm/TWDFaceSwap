@@ -61,9 +61,8 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="@string/begin"
-        android:textColor="#990000" />
-
-    <TextView
+        android:textColor="#FFFFFF" />
+ <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -75,6 +74,7 @@
         android:textColorHint="#CCCCCC"
         android:textSize="24sp"
         android:textStyle="bold|italic" />
+   
 
     <ImageView
         android:id="@+id/imageView1"
